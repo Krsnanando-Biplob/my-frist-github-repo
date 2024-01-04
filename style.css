@@ -1,0 +1,37 @@
+*{
+    background-color: beige;
+}
+#h-wel{
+    margin: 50pxx auto;
+    text-align: center;
+    /* position: relative; */
+    top: 50px;
+    font-size: 40px;
+    color: blueviolet;
+    text-shadow: 25px 25px 3px rgb(20, 20, 20);
+}
+.nam-h1 span{
+    font-size: 57px;
+    color: blueviolet;}
+#h-img img{
+    height: 300px;
+    border: 5px solid goldenrod;    
+    border-radius: 30px 40px;
+    box-shadow: 30px 30px 3px rgb(167, 167, 241);
+    position: absolute;
+}
+.peragrap1{
+    position: relative;
+    left: 40%;
+    width: 50vw;
+    border: 3px solid goldenrod;
+    padding: 30px;
+    background-color: #fff;
+
+}
+.peragrap1 h3{
+    background-color: #fff;
+}
+.peragrap1 p{
+    background-color: #fff;
+}
