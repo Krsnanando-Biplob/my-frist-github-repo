@@ -1,4 +1,5 @@
 *{
+    margin: 0px;
     background-color: beige;
 }
 #h-wel{
@@ -14,8 +15,8 @@
     font-size: 57px;
     color: blueviolet;}
 #h-img img{
-    height: 50vh;
-    width: 26vw;
+    height: 75vh;
+    width: 34vw;
     border: 5px solid goldenrod;    
     border-radius: 30px 40px;
     box-shadow: 30px 30px 3px rgb(167, 167, 241);
@@ -23,9 +24,9 @@
 }
 .peragrap1{
     position: absolute;
-    top: 40vh;
-    left: 40%;
-    width: 50vw;
+    top: 37vh;
+    left: 45%;
+    width: 34vw;
     border: 3px solid goldenrod;
     padding: 30px;
     background-color: #fff;
@@ -37,4 +38,53 @@
 }
 .peragrap1 p{
     background-color: #fff;
+}
+article{
+    position: relative;
+    top: 78vh;
+    padding: 30px;
+    border: 3px solid goldenrod;
+    background-color: #fff;
+}
+nav ul{
+    position: relative;
+    top: 70vh;
+    left: 50%;
+    width: 34vw;
+    height: 11vh;
+    text-align: center;
+    padding: 0px;    
+}
+nav ul li{
+    display: inline;
+    background-color: #fff;
+    padding: 3%;
+    border: 3px solid goldenrod;
+}
+nav ul li a{
+    text-decoration: none;
+    color: blueviolet;
+    background-color: #fff;
+    font-size: 18px;
+
+}
+footer{
+}
+
+footer ul{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    top: 78.4vh;
+    text-decoration: none;
+}
+footer ul li{
+    background-color: black;
+    color: #fff;
+    width: 98.7vw;
+    height: 5vh;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+
 }
